@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Hrithik Roy</h1>
 <h3 align="center">An aspiring DevOps Engineer from India</h3>
 
